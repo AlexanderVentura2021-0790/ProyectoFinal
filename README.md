@@ -1,8 +1,8 @@
 Alexander Ventura Fernandez
 2021-0790
 
-# Getting Started with Create React App
-# Getting Started with Create React App
+![Captura](https://user-images.githubusercontent.com/94939445/184169347-e3685d00-3056-417e-be7d-43019ddbbd2e.PNG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
